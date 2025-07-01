@@ -1,0 +1,1767 @@
+2025-03-28 15:50:25,760 [INFO] 数据库连接成功
+2025-03-28 15:50:25,916 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-28 15:50:26,154 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:26,198 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,157 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,189 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,223 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,256 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,257 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,288 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,288 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,292 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,318 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,318 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,321 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,348 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,348 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,348 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,348 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,386 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,387 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,387 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,387 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,392 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,419 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,427 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,454 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,454 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,457 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,457 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,457 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,457 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,460 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,460 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,488 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,492 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,492 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,492 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,492 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,497 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,497 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,497 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,500 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,528 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,528 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,533 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,533 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,534 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,534 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,567 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,567 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,567 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,567 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,572 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,598 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,598 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,598 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,606 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,606 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,631 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,631 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,631 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,631 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,631 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,639 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,639 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,668 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,668 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,672 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,677 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,708 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,708 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,708 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,708 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,708 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,712 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,712 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,712 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,712 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,712 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,745 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,745 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,745 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,747 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,747 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,782 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,782 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,785 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,788 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,818 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,818 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,818 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,826 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,826 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,827 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,863 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,863 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,868 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,901 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,901 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,901 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,901 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,909 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,937 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,937 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,937 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,937 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,937 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,948 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,977 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:27,987 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,023 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,023 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,023 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,023 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,023 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,028 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,058 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,066 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,066 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,066 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,068 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,099 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,099 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,099 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,138 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:28,141 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,458 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,468 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,514 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,522 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,573 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,577 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,577 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,578 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,579 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,583 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,629 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,629 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,629 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,629 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,629 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,643 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,673 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,688 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,728 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,745 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,769 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,793 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,828 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:29,848 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,011 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,039 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,080 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,112 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,148 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,228 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,228 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,228 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,228 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,253 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,258 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,288 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,288 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,318 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,318 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,343 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,343 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,368 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,368 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,398 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,398 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,425 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,425 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,425 [ERROR] API识别失败: name 'base64' is not defined
+2025-03-28 15:50:30,491 [INFO] 视频处理完成
+2025-03-28 15:50:30,491 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-28 15:56:02,618 [INFO] 数据库连接成功
+2025-03-28 15:56:02,635 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-28 15:56:03,838 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 15:56:03,862 [ERROR] 数据库存储失败: (1146, "Table 'object_tracking.objects' doesn't exist")
+2025-03-28 15:56:03,936 [ERROR] 程序运行异常: 'VideoObjectTracker' object has no attribute 'get_last_roi'
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 361, in <module>
+    tracker.process_video()
+  File "d:\Pycharm\AIapp\main.py", line 123, in process_video
+    processed_frame = self.process_frame(frame)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Pycharm\AIapp\main.py", line 171, in process_frame
+    self.record_trajectory(obj_name, center)
+  File "d:\Pycharm\AIapp\main.py", line 260, in record_trajectory
+    self.get_last_roi(obj_name)
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'VideoObjectTracker' object has no attribute 'get_last_roi'
+2025-03-28 16:23:58,576 [INFO] 数据库连接成功
+2025-03-28 16:23:58,649 [INFO] 确保数据库表已创建
+2025-03-28 16:23:58,754 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-28 16:24:00,034 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 16:24:02,391 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 16:24:04,336 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 16:24:04,563 [INFO] 视频处理完成
+2025-03-28 16:24:04,563 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:11:57,936 [INFO] 数据库连接成功
+2025-03-29 00:11:57,942 [INFO] 确保数据库表已创建
+2025-03-29 00:11:57,958 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:11:59,030 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:12:01,036 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:12:01,989 [INFO] 视频处理完成
+2025-03-29 00:12:01,990 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:38:37,434 [INFO] 数据库连接成功
+2025-03-29 00:38:37,437 [INFO] 确保数据库表已创建
+2025-03-29 00:38:37,447 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:38:38,661 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:38:40,655 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:38:41,513 [INFO] 视频处理完成
+2025-03-29 00:38:41,514 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:38:59,622 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:38:59,623 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:39:12,744 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:39:12,745 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:40:50,363 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:40:50,365 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:41:44,567 [INFO] 数据库连接成功
+2025-03-29 00:41:44,569 [INFO] 确保数据库表已创建
+2025-03-29 00:41:44,579 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:41:45,693 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:41:47,642 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:41:48,602 [INFO] 视频处理完成
+2025-03-29 00:41:48,602 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:41:48,603 [ERROR] 视频处理异常: 'VideoObjectTracker' object has no attribute 'interactive_query'
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 155, in process_video
+    self.interactive_query()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VideoObjectTracker' object has no attribute 'interactive_query'
+2025-03-29 00:47:49,295 [INFO] 数据库连接成功
+2025-03-29 00:47:49,299 [INFO] 确保数据库表已创建
+2025-03-29 00:47:49,309 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:47:50,367 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:47:52,305 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:47:53,277 [INFO] 视频处理完成
+2025-03-29 00:47:53,278 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:48:06,140 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:48:06,141 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:48:54,215 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:48:54,217 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:49:05,536 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:49:05,538 [ERROR] 查询处理失败: list index out of range
+2025-03-29 00:49:12,122 [INFO] 数据库连接成功
+2025-03-29 00:49:12,124 [INFO] 确保数据库表已创建
+2025-03-29 00:49:12,134 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:49:13,270 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:49:15,132 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:49:16,270 [INFO] 视频处理完成
+2025-03-29 00:49:16,272 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:49:16,272 [ERROR] 视频处理异常: 'VideoObjectTracker' object has no attribute 'interactive_query'
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 155, in process_video
+    self.interactive_query()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VideoObjectTracker' object has no attribute 'interactive_query'
+2025-03-29 00:51:22,542 [ERROR] 程序运行异常: 'VideoObjectTracker' object has no attribute 'process_video'
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 505, in <module>
+    tracker.process_video()
+    ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VideoObjectTracker' object has no attribute 'process_video'
+2025-03-29 00:55:16,847 [INFO] 数据库连接成功
+2025-03-29 00:55:16,851 [INFO] 确保数据库表已创建
+2025-03-29 00:55:16,862 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 00:55:18,063 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:55:20,113 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:55:21,134 [INFO] 视频处理完成
+2025-03-29 00:55:21,135 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 00:55:35,246 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:55:40,577 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:56:51,706 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 00:56:59,666 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:05:42,723 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:05:51,265 [INFO] 数据库连接成功
+2025-03-29 01:05:51,268 [INFO] 确保数据库表已创建
+2025-03-29 01:05:51,277 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 01:05:51,350 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:51,371 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,232 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,263 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,294 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,311 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,329 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,357 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,389 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,419 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,436 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,465 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,482 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,499 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,528 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,545 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,574 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,604 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,621 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,651 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,682 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,699 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,730 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,747 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,777 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,809 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,826 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,855 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,873 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,902 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,919 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,948 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:52,978 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,008 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,038 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,069 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,086 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,118 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,148 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,180 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,209 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,225 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,258 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,289 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,319 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,349 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,364 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,381 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,410 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,442 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,458 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,473 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,504 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,536 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,568 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,597 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,614 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,644 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,675 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,690 [ERROR] 帧处理异常: 'VideoObjectTracker' object has no attribute 'identify_object'
+2025-03-29 01:05:53,700 [INFO] 视频处理完成
+2025-03-29 01:05:53,701 [ERROR] 视频处理异常: 'VideoObjectTracker' object has no attribute 'save_trajectories'
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 154, in process_video
+    self.save_trajectories()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VideoObjectTracker' object has no attribute 'save_trajectories'. Did you mean: 'trajectories'?
+2025-03-29 01:09:04,014 [INFO] 数据库连接成功
+2025-03-29 01:09:04,017 [INFO] 确保数据库表已创建
+2025-03-29 01:09:04,027 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 01:09:05,254 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:09:07,172 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:09:08,240 [INFO] 视频处理完成
+2025-03-29 01:09:08,240 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 01:09:26,883 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:09:26,884 [ERROR] 查询处理失败: list index out of range
+2025-03-29 01:09:39,095 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:09:39,097 [ERROR] 查询处理失败: list index out of range
+2025-03-29 01:24:35,730 [INFO] 数据库连接成功
+2025-03-29 01:24:35,733 [INFO] 确保数据库表已创建
+2025-03-29 01:24:35,742 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 01:24:39,051 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:24:41,105 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:24:41,972 [INFO] 视频处理完成
+2025-03-29 01:24:41,972 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 01:24:52,740 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 01:24:57,280 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:40:43,714 [INFO] 数据库连接成功
+2025-03-29 16:40:43,719 [INFO] 确保数据库表已创建
+2025-03-29 16:40:43,801 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 16:40:44,970 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:40:46,807 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:40:48,717 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:40:48,965 [INFO] 视频处理完成
+2025-03-29 16:40:48,965 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 16:41:04,316 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:41:09,774 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:44:57,091 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:45:17,041 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:45:42,453 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:46:09,231 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:46:14,489 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:46:37,263 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:46:42,564 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:59:42,181 [INFO] 数据库连接成功
+2025-03-29 16:59:42,184 [INFO] 确保数据库表已创建
+2025-03-29 16:59:42,194 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-29 16:59:43,397 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:59:45,360 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:59:47,193 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 16:59:47,532 [INFO] 视频处理完成
+2025-03-29 16:59:47,533 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 17:00:06,918 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:00:12,700 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:12:35,539 [INFO] 数据库连接成功
+2025-03-29 17:12:35,543 [INFO] 确保数据库表已创建
+2025-03-29 17:12:35,555 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-29 17:12:37,533 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:12:39,442 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:12:41,339 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:12:42,326 [INFO] 视频处理完成
+2025-03-29 17:12:42,326 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 17:12:53,970 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:12:58,293 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:13:15,337 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:13:20,888 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:22:10,191 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:22:29,890 [INFO] 数据库连接成功
+2025-03-29 17:22:29,893 [INFO] 确保数据库表已创建
+2025-03-29 17:22:29,904 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-29 17:22:31,821 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:22:34,389 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:22:36,336 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:22:37,436 [INFO] 视频处理完成
+2025-03-29 17:22:37,437 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 17:23:05,732 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:23:09,165 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:24:59,261 [INFO] 数据库连接成功
+2025-03-29 17:24:59,265 [INFO] 确保数据库表已创建
+2025-03-29 17:24:59,274 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-29 17:25:01,508 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:03,459 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:05,409 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:06,479 [INFO] 视频处理完成
+2025-03-29 17:25:06,480 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-29 17:25:16,690 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:21,679 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:49,713 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:25:54,784 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:26:10,605 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 17:26:16,126 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 21:07:20,467 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 21:07:25,220 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 21:07:57,484 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-29 21:08:02,436 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:27:43,923 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:27:55,128 [INFO] 数据库连接成功
+2025-03-30 01:27:55,132 [INFO] 确保数据库表已创建
+2025-03-30 01:27:55,189 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-30 01:27:56,900 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:27:58,782 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:28:00,659 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:28:01,587 [INFO] 视频处理完成
+2025-03-30 01:28:01,588 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-30 01:28:18,020 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:28:21,746 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:28:31,892 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:28:35,113 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:32:09,722 [INFO] 数据库连接成功
+2025-03-30 01:32:09,725 [INFO] 确保数据库表已创建
+2025-03-30 01:32:09,736 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-30 01:32:11,368 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:32:13,382 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:32:15,263 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:32:16,342 [INFO] 视频处理完成
+2025-03-30 01:32:16,343 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-30 01:32:24,504 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-30 01:32:28,515 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:00,443 [INFO] 数据库连接成功
+2025-03-31 08:29:00,447 [INFO] 确保数据库表已创建
+2025-03-31 08:29:00,575 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 08:29:02,634 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:04,640 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:06,595 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:08,454 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:08,956 [INFO] 视频处理完成
+2025-03-31 08:29:08,956 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 08:29:20,967 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:29:24,645 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:33,126 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:48,829 [INFO] 数据库连接成功
+2025-03-31 08:30:48,829 [INFO] 确保数据库表已创建
+2025-03-31 08:30:48,845 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 08:30:50,671 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:52,620 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:54,664 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:56,716 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:30:56,844 [INFO] 视频处理完成
+2025-03-31 08:30:56,844 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 08:31:05,292 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:31:09,208 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:16,073 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:27,595 [INFO] 数据库连接成功
+2025-03-31 08:32:27,597 [INFO] 确保数据库表已创建
+2025-03-31 08:32:27,612 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 08:32:29,391 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:31,338 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:33,278 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:34,423 [INFO] 视频处理完成
+2025-03-31 08:32:34,431 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 08:32:48,571 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:32:52,838 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:33:20,177 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:33:23,234 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:33:36,947 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:33:40,250 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:02,698 [INFO] 数据库连接成功
+2025-03-31 08:50:02,698 [INFO] 确保数据库表已创建
+2025-03-31 08:50:02,723 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 08:50:04,636 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:06,460 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:08,348 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:09,534 [INFO] 视频处理完成
+2025-03-31 08:50:09,534 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 08:50:19,789 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:25,012 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:51,325 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:50:56,662 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 08:55:39,594 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:31,248 [INFO] 数据库连接成功
+2025-03-31 09:12:31,248 [INFO] 确保数据库表已创建
+2025-03-31 09:12:31,350 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:12:33,217 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:35,069 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:37,048 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:38,986 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:39,419 [INFO] 视频处理完成
+2025-03-31 09:12:39,419 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:12:51,890 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:12:55,703 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:16:19,793 [INFO] 数据库连接成功
+2025-03-31 09:16:19,796 [INFO] 确保数据库表已创建
+2025-03-31 09:16:19,813 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:16:21,672 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:16:23,662 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:16:25,550 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:16:26,655 [INFO] 视频处理完成
+2025-03-31 09:16:26,655 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:16:39,881 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:16:55,658 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:17:11,273 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:17:14,448 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:17:34,114 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:17:37,379 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:18:00,738 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:18:04,216 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:39:51,849 [INFO] 数据库连接成功
+2025-03-31 09:39:51,853 [INFO] 确保数据库表已创建
+2025-03-31 09:39:51,869 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:39:53,664 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:39:55,817 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:39:57,728 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:39:58,828 [INFO] 视频处理完成
+2025-03-31 09:39:58,832 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:40:06,357 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:40:10,359 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:41:00,121 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:41:03,977 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:43:44,949 [INFO] 数据库连接成功
+2025-03-31 09:43:44,956 [INFO] 确保数据库表已创建
+2025-03-31 09:43:44,973 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:43:47,037 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:43:48,959 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:43:50,999 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:43:52,915 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:43:53,044 [INFO] 视频处理完成
+2025-03-31 09:43:53,044 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:44:03,517 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:44:06,904 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:44:22,686 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:44:26,668 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:44:43,150 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:44:46,735 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:45:09,672 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:47:39,085 [INFO] 数据库连接成功
+2025-03-31 09:47:39,091 [INFO] 确保数据库表已创建
+2025-03-31 09:47:39,110 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:47:41,224 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:47:43,681 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:47:45,935 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:47:48,498 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:47:48,633 [INFO] 视频处理完成
+2025-03-31 09:47:48,638 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:47:58,835 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:48:03,317 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:48:35,804 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:48:40,104 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:49:09,202 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:49:15,190 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:49:54,037 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:49:58,850 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:58:31,886 [INFO] 数据库连接成功
+2025-03-31 09:58:31,896 [INFO] 确保数据库表已创建
+2025-03-31 09:58:31,912 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 09:58:33,785 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:58:35,858 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:58:37,910 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:58:39,047 [INFO] 视频处理完成
+2025-03-31 09:58:39,057 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 09:58:54,705 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 09:58:58,290 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:01,228 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:04,424 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:21,199 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:24,476 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:37,384 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:03:40,694 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:04:01,954 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:04:07,281 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:04:25,918 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:04:31,242 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:05:00,535 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:05:05,547 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:09:37,901 [INFO] 数据库连接成功
+2025-03-31 10:09:37,908 [INFO] 确保数据库表已创建
+2025-03-31 10:09:37,918 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:09:39,777 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:09:41,721 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:09:43,643 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:09:44,784 [INFO] 视频处理完成
+2025-03-31 10:09:44,784 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:10:12,914 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:10:15,689 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:10:53,167 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:10:55,863 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:11:18,315 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:14:46,289 [INFO] 数据库连接成功
+2025-03-31 10:14:46,290 [INFO] 确保数据库表已创建
+2025-03-31 10:14:46,306 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:14:48,185 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:14:50,246 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:14:52,202 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:14:53,292 [INFO] 视频处理完成
+2025-03-31 10:14:53,293 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:15:06,851 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:15:06,855 [INFO] 查询水杯的初始位置，帧索引：99，位置：(703, 598)
+2025-03-31 10:15:09,713 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:15:09,730 [INFO] 位置图像已保存到 ./results\水杯_初始位置.jpg
+2025-03-31 10:15:27,406 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:15:27,410 [INFO] 查询水杯的末尾位置，帧索引：99，位置：(703, 598)
+2025-03-31 10:15:29,994 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:15:30,014 [INFO] 位置图像已保存到 ./results\水杯_末尾位置.jpg
+2025-03-31 10:20:07,292 [INFO] 数据库连接成功
+2025-03-31 10:20:07,299 [INFO] 确保数据库表已创建
+2025-03-31 10:20:07,319 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:20:09,241 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:20:11,185 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:20:13,264 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:20:14,359 [INFO] 视频处理完成
+2025-03-31 10:20:14,359 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:20:31,221 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:20:31,223 [INFO] 水杯的末尾位置: 帧 351, 位置 (148, 1260)
+2025-03-31 10:20:34,237 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:25:45,845 [INFO] 数据库连接成功
+2025-03-31 10:25:45,845 [INFO] 确保数据库表已创建
+2025-03-31 10:25:45,869 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:25:47,709 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:25:49,809 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:25:51,764 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:25:52,881 [INFO] 视频处理完成
+2025-03-31 10:25:52,881 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:26:08,943 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:26:08,947 [INFO] 水杯的末尾位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:26:11,219 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:26:49,827 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:26:49,827 [INFO] 水杯的初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:26:52,081 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:29:15,771 [INFO] 数据库连接成功
+2025-03-31 10:29:15,771 [INFO] 确保数据库表已创建
+2025-03-31 10:29:15,790 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:29:17,694 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:29:19,741 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:29:21,651 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:29:22,777 [INFO] 视频处理完成
+2025-03-31 10:29:22,777 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:29:33,286 [INFO] 水杯的末尾位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:29:35,728 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:29:52,328 [INFO] 水杯的初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:29:54,660 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:30:23,869 [INFO] 手机的末尾位置: 帧 351, 位置 (148, 1260)
+2025-03-31 10:30:26,407 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:32:32,099 [INFO] 数据库连接成功
+2025-03-31 10:32:32,106 [INFO] 确保数据库表已创建
+2025-03-31 10:32:32,122 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:32:34,079 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:32:36,082 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:32:38,023 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:32:39,167 [INFO] 视频处理完成
+2025-03-31 10:32:39,167 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:32:54,291 [INFO] 水杯的轨迹共有1个点
+2025-03-31 10:32:54,291 [INFO] 使用轨迹最后一个点作为末尾位置: index=0
+2025-03-31 10:32:54,291 [INFO] 水杯的末尾位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:32:54,291 [INFO] 轨迹首点: (99, 703, 598), 轨迹尾点: (99, 703, 598)
+2025-03-31 10:32:57,156 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:33:29,063 [INFO] 水杯的轨迹共有1个点
+2025-03-31 10:33:29,063 [INFO] 使用轨迹第一个点作为初始位置: index=0
+2025-03-31 10:33:29,067 [INFO] 水杯的初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:33:29,067 [INFO] 轨迹首点: (99, 703, 598), 轨迹尾点: (99, 703, 598)
+2025-03-31 10:33:32,366 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:35:48,280 [INFO] 数据库连接成功
+2025-03-31 10:35:48,285 [INFO] 确保数据库表已创建
+2025-03-31 10:35:48,301 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:35:50,200 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:35:52,135 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:35:54,024 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:35:55,115 [INFO] 视频处理完成
+2025-03-31 10:35:55,115 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:35:55,119 [INFO] 水杯的轨迹点数量: 1
+2025-03-31 10:35:55,119 [WARNING] 水杯的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:35:55,119 [INFO] 行李箱的轨迹点数量: 2
+2025-03-31 10:39:02,341 [INFO] 数据库连接成功
+2025-03-31 10:39:02,345 [INFO] 确保数据库表已创建
+2025-03-31 10:39:02,365 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:39:04,184 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:39:06,193 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:39:08,095 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:39:10,005 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:39:10,111 [INFO] 视频处理完成
+2025-03-31 10:39:10,111 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:39:10,114 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:39:10,114 [INFO] 行李箱的轨迹点数量: 2
+2025-03-31 10:39:20,620 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:39:20,620 [INFO] 使用后2帧分析水杯的末尾位置
+2025-03-31 10:39:20,620 [INFO] 水杯的主要末尾位置: 帧 480, 位置 (98, 1173)
+2025-03-31 10:39:20,631 [INFO] 将分析1帧以确定水杯的末尾位置
+2025-03-31 10:39:26,258 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:39:48,091 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:39:48,091 [INFO] 使用前2帧分析水杯的初始位置
+2025-03-31 10:39:48,091 [INFO] 水杯的主要初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:39:48,107 [INFO] 将分析1帧以确定水杯的初始位置
+2025-03-31 10:39:53,582 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:40:27,378 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:40:37,743 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:44:55,454 [INFO] 数据库连接成功
+2025-03-31 10:44:55,459 [INFO] 确保数据库表已创建
+2025-03-31 10:44:55,475 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:44:57,429 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:44:59,304 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:45:01,218 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:45:02,284 [INFO] 视频处理完成
+2025-03-31 10:45:02,284 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:45:02,288 [INFO] 水杯的轨迹点数量: 1
+2025-03-31 10:45:02,288 [WARNING] 水杯的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:45:02,288 [INFO] 手的轨迹点数量: 1
+2025-03-31 10:45:02,288 [WARNING] 手的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:45:02,288 [INFO] 手机的轨迹点数量: 1
+2025-03-31 10:45:02,288 [WARNING] 手机的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:48:26,570 [INFO] 数据库连接成功
+2025-03-31 10:48:26,576 [INFO] 确保数据库表已创建
+2025-03-31 10:48:26,593 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:48:28,460 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:48:31,347 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:48:33,805 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:48:35,747 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:48:36,811 [INFO] 视频处理完成
+2025-03-31 10:48:36,815 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:48:36,815 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:48:36,815 [INFO] 行李箱的轨迹点数量: 1
+2025-03-31 10:48:36,815 [WARNING] 行李箱的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:48:36,819 [INFO] 手机的轨迹点数量: 1
+2025-03-31 10:48:36,819 [WARNING] 手机的轨迹点数量不足，无法分析移动轨迹
+2025-03-31 10:48:54,398 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:48:54,398 [INFO] 使用后2帧分析水杯的末尾位置
+2025-03-31 10:48:54,398 [INFO] 水杯的主要末尾位置: 帧 105, 位置 (672, 607)
+2025-03-31 10:48:54,414 [INFO] 将分析2帧以确定水杯的末尾位置
+2025-03-31 10:48:56,877 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:49:12,089 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:49:12,089 [INFO] 使用前2帧分析水杯的初始位置
+2025-03-31 10:49:12,089 [INFO] 水杯的主要初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:49:12,104 [INFO] 将分析2帧以确定水杯的初始位置
+2025-03-31 10:49:14,969 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:49:26,204 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:49:26,204 [INFO] 使用2个关键帧分析水杯的轨迹
+2025-03-31 10:49:28,877 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:49:41,744 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:49:41,745 [INFO] 使用后2帧分析水杯的末尾位置
+2025-03-31 10:49:41,745 [INFO] 水杯的主要末尾位置: 帧 105, 位置 (672, 607)
+2025-03-31 10:49:41,762 [INFO] 将分析2帧以确定水杯的末尾位置
+2025-03-31 10:49:44,244 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:51:01,669 [INFO] 数据库连接成功
+2025-03-31 10:51:01,675 [INFO] 确保数据库表已创建
+2025-03-31 10:51:01,695 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:51:03,718 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:51:05,559 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:51:07,420 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:51:08,594 [INFO] 视频处理完成
+2025-03-31 10:51:08,599 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:51:08,599 [INFO] 水杯的轨迹点数量: 3
+2025-03-31 10:51:18,757 [INFO] 水杯的轨迹点数量: 3
+2025-03-31 10:51:18,757 [INFO] 使用后3帧分析水杯的末尾位置
+2025-03-31 10:51:18,757 [INFO] 水杯的主要末尾位置: 帧 348, 位置 (157, 1266)
+2025-03-31 10:51:18,770 [INFO] 将分析3帧以确定水杯的末尾位置
+2025-03-31 10:51:20,832 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:53:36,125 [INFO] 数据库连接成功
+2025-03-31 10:53:36,129 [INFO] 确保数据库表已创建
+2025-03-31 10:53:36,150 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:53:37,991 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:53:39,736 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:53:41,548 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:53:42,628 [INFO] 视频处理完成
+2025-03-31 10:53:42,628 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:53:42,630 [INFO] 水杯的轨迹点数量: 3
+2025-03-31 10:53:53,599 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:53:53,605 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '末尾'}
+2025-03-31 10:53:53,605 [INFO] 使用后3帧分析水杯的末尾位置
+2025-03-31 10:53:53,607 [INFO] 水杯的主要末尾位置: 帧 348, 位置 (157, 1266)
+2025-03-31 10:53:53,622 [INFO] 将分析3帧以确定水杯的末尾位置
+2025-03-31 10:53:55,547 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:54:07,834 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:54:07,837 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '初始'}
+2025-03-31 10:54:07,837 [INFO] 使用前3帧分析水杯的初始位置
+2025-03-31 10:54:07,841 [INFO] 水杯的主要初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:54:07,856 [INFO] 将分析3帧以确定水杯的初始位置
+2025-03-31 10:54:09,881 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:54:21,645 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:54:21,649 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '轨迹', 'position_type': ''}
+2025-03-31 10:54:21,652 [INFO] 使用3个关键帧分析水杯的轨迹
+2025-03-31 10:54:23,422 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:56:58,856 [INFO] 数据库连接成功
+2025-03-31 10:56:58,860 [INFO] 确保数据库表已创建
+2025-03-31 10:56:58,876 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 10:57:00,858 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:02,784 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:04,645 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:06,426 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:06,762 [INFO] 视频处理完成
+2025-03-31 10:57:06,762 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 10:57:06,765 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 10:57:06,765 [INFO] 行李箱的轨迹点数量: 2
+2025-03-31 10:57:17,248 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:17,251 [ERROR] 无法解析意图: Unterminated string starting at: line 1 column 12 (char 11), 响应: {"object": "水杯
+2025-03-31 10:57:28,637 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:28,639 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '末尾'}
+2025-03-31 10:57:28,641 [INFO] 使用后2帧分析水杯的末尾位置
+2025-03-31 10:57:28,642 [INFO] 水杯的主要末尾位置: 帧 210, 位置 (360, 1047)
+2025-03-31 10:57:28,655 [INFO] 将分析6帧以确定水杯的末尾位置
+2025-03-31 10:57:30,821 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:44,725 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:57:44,729 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '初始'}
+2025-03-31 10:57:44,730 [INFO] 使用前2帧分析水杯的初始位置
+2025-03-31 10:57:44,730 [INFO] 水杯的主要初始位置: 帧 99, 位置 (703, 598)
+2025-03-31 10:57:44,747 [INFO] 将分析6帧以确定水杯的初始位置
+2025-03-31 10:57:46,846 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:58:21,073 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 10:58:21,075 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '轨迹', 'position_type': ''}
+2025-03-31 10:58:21,077 [INFO] 使用2个关键帧分析水杯的轨迹
+2025-03-31 10:58:22,916 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:26,440 [INFO] 数据库连接成功
+2025-03-31 11:00:26,443 [INFO] 确保数据库表已创建
+2025-03-31 11:00:26,460 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:00:28,334 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:30,184 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:32,218 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:34,004 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:34,458 [INFO] 视频处理完成
+2025-03-31 11:00:34,460 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:00:34,462 [INFO] 水杯的轨迹点数量: 2
+2025-03-31 11:00:34,462 [INFO] 行李箱的轨迹点数量: 2
+2025-03-31 11:00:47,391 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:00:47,394 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '末尾'}
+2025-03-31 11:00:47,396 [WARNING] 水杯只有2个轨迹点，分析结果可能不准确
+2025-03-31 11:00:47,396 [INFO] 使用最后的2帧分析水杯的末尾位置
+2025-03-31 11:00:47,397 [INFO] 水杯的主要末尾位置: 帧 444, 位置 (99, 1115)
+2025-03-31 11:00:47,413 [INFO] 将分析4帧以确定水杯的末尾位置
+2025-03-31 11:00:49,380 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:24,708 [INFO] 数据库连接成功
+2025-03-31 11:08:24,712 [INFO] 确保数据库表已创建
+2025-03-31 11:08:24,729 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:08:26,704 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:37,824 [INFO] Retrying request to /chat/completions in 0.475732 seconds
+2025-03-31 11:08:39,394 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:41,622 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:43,587 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:44,142 [INFO] 视频处理完成
+2025-03-31 11:08:44,144 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:08:44,146 [INFO] 水杯的轨迹点数量: 4
+2025-03-31 11:08:57,819 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:08:57,820 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '初始'}
+2025-03-31 11:08:57,823 [INFO] 使用最早的3帧分析水杯的初始位置
+2025-03-31 11:08:57,824 [INFO] 水杯的主要初始位置: 帧 99, 位置 (702, 600)
+2025-03-31 11:08:57,836 [INFO] 初始位置分析使用前1帧（共4帧）
+2025-03-31 11:08:57,836 [INFO] 将分析1帧以确定水杯的初始位置
+2025-03-31 11:08:59,744 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:09:15,840 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:09:15,844 [ERROR] 无法解析意图: Extra data: line 1 column 60 (char 59), 响应: {"object": "水杯", "query_type": "位置", "position_type": "末尾"}}
+
+2025-03-31 11:09:26,065 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:09:26,069 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '末尾'}
+2025-03-31 11:09:26,069 [INFO] 使用最后的3帧分析水杯的末尾位置
+2025-03-31 11:09:26,069 [INFO] 水杯的主要末尾位置: 帧 429, 位置 (96, 1105)
+2025-03-31 11:09:26,086 [INFO] 末尾位置分析使用后1帧（共4帧）
+2025-03-31 11:09:26,088 [INFO] 将分析1帧以确定水杯的末尾位置
+2025-03-31 11:09:28,114 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:11:57,868 [INFO] 数据库连接成功
+2025-03-31 11:11:57,872 [INFO] 确保数据库表已创建
+2025-03-31 11:11:57,888 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:11:59,768 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:01,816 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:03,906 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:05,820 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:06,265 [INFO] 视频处理完成
+2025-03-31 11:12:06,265 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:12:06,270 [INFO] 水杯的轨迹点数量: 4
+2025-03-31 11:12:25,005 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:25,005 [ERROR] 无法解析意图: Extra data: line 1 column 60 (char 59), 响应: {"object": "水杯", "query_type": "位置", "position_type": "初始"}}
+
+2025-03-31 11:12:31,308 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:31,308 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '末尾'}
+2025-03-31 11:12:31,308 [INFO] 分析水杯的末尾位置: 帧 441, 位置 (91, 864)
+2025-03-31 11:12:34,276 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:59,776 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:12:59,778 [INFO] 查询解析结果: {'object': '水杯', 'query_type': '位置', 'position_type': '初始'}
+2025-03-31 11:12:59,780 [INFO] 分析水杯的初始位置: 帧 99, 位置 (702, 600)
+2025-03-31 11:13:02,129 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:19:46,007 [INFO] 数据库连接成功
+2025-03-31 11:19:46,012 [INFO] 确保数据库表已创建
+2025-03-31 11:19:46,027 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:19:48,051 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:19:50,199 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:19:52,245 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:19:54,193 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:19:54,595 [INFO] 视频处理完成
+2025-03-31 11:19:54,595 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:20:07,508 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:20:09,654 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:20:22,350 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:20:24,399 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:20:35,049 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:20:45,606 [INFO] Retrying request to /chat/completions in 0.386977 seconds
+2025-03-31 11:20:48,259 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:21:16,519 [INFO] Retrying request to /chat/completions in 0.448571 seconds
+2025-03-31 11:21:18,160 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:23:15,005 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:23:42,957 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:05,259 [INFO] 数据库连接成功
+2025-03-31 11:25:05,263 [INFO] 确保数据库表已创建
+2025-03-31 11:25:05,278 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:25:07,156 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:09,075 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:11,121 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:13,068 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:13,376 [INFO] 视频处理完成
+2025-03-31 11:25:13,376 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:25:40,923 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:25:42,764 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:05,211 [INFO] 数据库连接成功
+2025-03-31 11:26:05,211 [INFO] 确保数据库表已创建
+2025-03-31 11:26:05,231 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:26:07,056 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:09,081 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:11,028 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:12,999 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:13,534 [INFO] 视频处理完成
+2025-03-31 11:26:13,534 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:26:21,937 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:26:24,442 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:04,465 [INFO] 数据库连接成功
+2025-03-31 11:28:04,470 [INFO] 确保数据库表已创建
+2025-03-31 11:28:04,489 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:28:06,484 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:09,202 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:11,225 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:13,191 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:13,553 [INFO] 视频处理完成
+2025-03-31 11:28:13,553 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:28:22,612 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:28:24,662 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:29:46,721 [INFO] 数据库连接成功
+2025-03-31 11:29:46,724 [INFO] 确保数据库表已创建
+2025-03-31 11:29:46,741 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:29:48,577 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:29:50,470 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:29:52,498 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:29:54,443 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:29:54,883 [INFO] 视频处理完成
+2025-03-31 11:29:54,883 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:30:02,221 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:04,093 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:20,578 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:22,475 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:34,405 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:37,475 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:30:57,054 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:31:26,846 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:31:31,752 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:33:44,466 [INFO] 数据库连接成功
+2025-03-31 11:33:44,470 [INFO] 确保数据库表已创建
+2025-03-31 11:33:44,489 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 11:33:46,359 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:33:48,351 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:33:59,473 [INFO] Retrying request to /chat/completions in 0.391541 seconds
+2025-03-31 11:34:00,943 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:02,860 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:03,241 [INFO] 视频处理完成
+2025-03-31 11:34:03,243 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 11:34:15,691 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:17,636 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:29,217 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:31,253 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:34:43,351 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:35:02,897 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 11:35:05,152 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:38:34,949 [INFO] 数据库连接成功
+2025-03-31 14:38:34,950 [INFO] 确保数据库表已创建
+2025-03-31 14:38:35,091 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-31 14:38:36,373 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:38:38,302 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:38:40,257 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:38:40,678 [INFO] 视频处理完成
+2025-03-31 14:38:40,678 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 14:38:48,738 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:38:50,824 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:39:00,516 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:39:02,773 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:39:14,537 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:39:18,024 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:39:35,441 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:44,433 [INFO] 数据库连接成功
+2025-03-31 14:54:44,433 [INFO] 确保数据库表已创建
+2025-03-31 14:54:44,461 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 14:54:46,859 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:48,916 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:51,048 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:53,417 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:55,603 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:54:55,765 [INFO] 视频处理完成
+2025-03-31 14:54:55,765 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 14:55:12,496 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:55:15,880 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:55:35,962 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:55:38,819 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:56:19,160 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:56:50,024 [INFO] 数据库连接成功
+2025-03-31 14:56:50,032 [INFO] 确保数据库表已创建
+2025-03-31 14:56:50,051 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 14:56:52,249 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:56:54,701 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:56:57,050 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:56:59,919 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:01,964 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:04,527 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:04,956 [INFO] 视频处理完成
+2025-03-31 14:57:04,956 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 14:57:25,006 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:27,571 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:48,452 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:57:48,452 [ERROR] 意图理解失败: Expecting value: line 1 column 11 (char 10)
+2025-03-31 14:58:06,477 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:58:09,033 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:58:28,697 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:58:42,109 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:58:47,642 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:58:49,785 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:59:23,275 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 14:59:31,565 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:12,586 [INFO] 数据库连接成功
+2025-03-31 15:03:12,586 [INFO] 确保数据库表已创建
+2025-03-31 15:03:12,610 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 15:03:14,907 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:17,571 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:19,617 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:21,869 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:23,915 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:24,101 [INFO] 视频处理完成
+2025-03-31 15:03:24,101 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:03:36,757 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:03:39,279 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:04:06,024 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:04:16,045 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:04:37,538 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:42,251 [INFO] 数据库连接成功
+2025-03-31 15:12:42,260 [INFO] 确保数据库表已创建
+2025-03-31 15:12:42,276 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 15:12:44,660 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:47,173 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:49,162 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:51,065 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:53,019 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:12:53,264 [INFO] 视频处理完成
+2025-03-31 15:12:53,264 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:13:05,441 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:13:08,722 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:13:16,502 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:08,794 [INFO] 数据库连接成功
+2025-03-31 15:18:08,850 [INFO] 已重置数据库表
+2025-03-31 15:18:08,900 [INFO] 确保数据库表已创建
+2025-03-31 15:18:08,915 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 15:18:11,418 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:13,769 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:15,816 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:18,275 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:20,223 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:20,415 [INFO] 视频处理完成
+2025-03-31 15:18:20,423 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:18:38,649 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:41,008 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:56,131 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:18:58,897 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:19:54,226 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:19:57,297 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:20:23,922 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:20:26,380 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:20:43,165 [INFO] Retrying request to /chat/completions in 0.391822 seconds
+2025-03-31 15:20:44,504 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:20:44,507 [ERROR] 意图理解失败: Expecting property name enclosed in double quotes: line 1 column 27 (char 26)
+2025-03-31 15:20:51,206 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:20:54,130 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:36,208 [INFO] 数据库连接成功
+2025-03-31 15:23:36,235 [INFO] 已重置数据库表
+2025-03-31 15:23:36,282 [INFO] 确保数据库表已创建
+2025-03-31 15:23:36,307 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 15:23:45,850 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:46,878 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:47,743 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:48,722 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:49,752 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:50,871 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:51,794 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:52,717 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:53,709 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:54,760 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:55,783 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:56,695 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:57,625 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:58,757 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:23:59,880 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:00,906 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:03,263 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:05,307 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:06,232 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:09,098 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:10,016 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:11,925 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:12,781 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:13,807 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:15,448 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:16,363 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:17,700 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:18,621 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:19,539 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:22,202 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:23,129 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:24,254 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:25,278 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:26,815 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:28,147 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:29,068 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:30,707 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:31,729 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:32,646 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:33,571 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:35,104 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:36,025 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:37,355 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:38,483 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:39,614 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:40,528 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:42,173 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:43,087 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:44,118 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:45,656 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:46,578 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:47,390 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:48,519 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:49,858 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:51,083 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:51,995 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:52,876 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:54,155 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:55,075 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:56,921 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:57,944 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:24:58,864 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:00,400 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:01,734 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:03,267 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:04,700 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:05,619 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:07,365 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:08,486 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:10,541 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:11,557 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:13,409 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:14,527 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:16,064 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:16,987 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:19,039 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:21,083 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:22,208 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:23,232 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:24,255 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:25,179 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:26,197 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:27,329 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:28,663 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:29,689 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:30,612 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:32,143 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:33,063 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:33,988 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:34,905 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:35,830 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:45,849 [INFO] Retrying request to /chat/completions in 0.456835 seconds
+2025-03-31 15:25:47,399 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:48,420 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:49,964 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:51,052 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:51,838 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:52,644 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:53,542 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:54,469 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:55,327 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:56,826 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:58,458 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:25:59,379 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:00,402 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:01,636 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:02,758 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:03,580 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:04,499 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:05,727 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:06,960 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:07,883 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:08,701 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:10,665 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:11,567 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:12,697 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:13,037 [INFO] 视频处理完成
+2025-03-31 15:26:13,037 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:26:15,964 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:26:15,964 [INFO] 场景概览分析完成，识别到物体: 电脑主机, 电线, 鼠标, 背包。, 桌子, 笔记本电脑, 窗户, 梯子, 纸巾盒, 凳子, 键盘, 纸箱, 电脑显示器
+2025-03-31 15:26:31,434 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:27:14,961 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:27:17,618 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:27:29,697 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:27:29,697 [ERROR] 意图理解失败: Expecting property name enclosed in double quotes: line 1 column 29 (char 28)
+2025-03-31 15:28:02,369 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:28:05,029 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:28:21,512 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:22,430 [INFO] 数据库连接成功
+2025-03-31 15:32:22,454 [INFO] 已重置数据库表
+2025-03-31 15:32:22,511 [INFO] 确保数据库表已创建
+2025-03-31 15:32:22,535 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 15:32:24,814 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:25,733 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:26,659 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:27,577 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:28,503 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:29,529 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:30,545 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:31,370 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:33,623 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:34,654 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:35,677 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:37,882 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:38,946 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:39,868 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:41,000 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:42,222 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:46,013 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:47,038 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:48,160 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:49,193 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:50,107 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:51,074 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:52,054 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:54,199 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:55,023 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:56,151 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:57,175 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:32:57,995 [INFO] 视频处理完成
+2025-03-31 15:32:57,995 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:33:01,272 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:01,275 [INFO] 场景概览分析完成，识别到物体: 电脑显示器，桌子，打印机，塑料桶，行李箱，储物袋，毛巾，鞋子，窗帘，书架，杯子，电线，插座，纸箱，塑料凳子。
+2025-03-31 15:33:16,735 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:20,317 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:33,323 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:34,346 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:36,787 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:50,135 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:51,526 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:33:54,517 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:42:59,619 [INFO] 数据库连接成功
+2025-03-31 15:42:59,628 [INFO] 确保数据库表已创建
+2025-03-31 15:42:59,646 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 15:43:01,846 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:43:04,608 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:43:06,759 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:43:09,254 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:43:09,698 [INFO] 视频处理完成
+2025-03-31 15:43:09,702 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:43:29,543 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:43:32,154 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:44:07,391 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:44:09,536 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:44:18,931 [ERROR] 查询处理异常: 
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 348, in interactive_query
+    query = input("\n> ").strip()
+            ^^^^^^^^^^^^^
+EOFError
+2025-03-31 15:50:17,625 [INFO] 数据库连接成功
+2025-03-31 15:50:17,629 [INFO] 确保数据库表已创建
+2025-03-31 15:50:17,649 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 15:50:19,707 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:50:23,711 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:50:26,054 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:50:27,988 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:50:28,453 [INFO] 视频处理完成
+2025-03-31 15:50:28,453 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:50:37,115 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:50:39,981 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:51:06,813 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:51:09,780 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:54:47,073 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:54:50,990 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:00,985 [INFO] 数据库连接成功
+2025-03-31 15:56:00,989 [INFO] 确保数据库表已创建
+2025-03-31 15:56:01,014 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 15:56:03,157 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:05,102 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:07,250 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:09,196 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:09,614 [INFO] 视频处理完成
+2025-03-31 15:56:09,614 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 15:56:26,610 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:29,009 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:48,727 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:56:51,377 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:57:19,957 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 15:57:22,719 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:01,146 [INFO] 数据库连接成功
+2025-03-31 16:01:01,150 [INFO] 确保数据库表已创建
+2025-03-31 16:01:01,182 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 491帧)
+2025-03-31 16:01:03,497 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:05,545 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:07,796 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:10,050 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:10,538 [INFO] 视频处理完成
+2025-03-31 16:01:10,538 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:01:22,851 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:01:25,512 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:00,665 [INFO] 数据库连接成功
+2025-03-31 16:03:00,669 [INFO] 确保数据库表已创建
+2025-03-31 16:03:00,690 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:03:03,307 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:05,458 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:07,602 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:09,648 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:11,594 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:11,818 [INFO] 视频处理完成
+2025-03-31 16:03:11,818 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:03:39,990 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:03:42,520 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:08,575 [INFO] 数据库连接成功
+2025-03-31 16:07:08,643 [INFO] 数据库表已重置
+2025-03-31 16:07:08,643 [INFO] 确保数据库表已创建
+2025-03-31 16:07:08,668 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:07:10,915 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:12,953 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:15,102 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:17,153 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:19,199 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:19,371 [INFO] 视频处理完成
+2025-03-31 16:07:19,371 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:07:44,408 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:07:48,690 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:09:25,765 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:09:36,006 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:09:36,006 [ERROR] 意图理解失败: Expecting property name enclosed in double quotes: line 1 column 29 (char 28)
+2025-03-31 16:09:47,168 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:10:10,307 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:16:02,175 [INFO] 数据库连接成功
+2025-03-31 16:16:02,253 [INFO] 数据库表已重置
+2025-03-31 16:16:02,253 [INFO] 确保数据库表已创建
+2025-03-31 16:16:02,282 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:16:07,819 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:16:10,541 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:16:10,613 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,650 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,739 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,823 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,867 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,949 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:10,989 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,070 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,203 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,290 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,372 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,459 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,503 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,542 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,583 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,619 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,661 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,749 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,791 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,832 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,869 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,953 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:11,992 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,029 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,070 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,107 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,147 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,229 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,267 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,303 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,344 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,426 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,463 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,504 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,546 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,581 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,665 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,705 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,742 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,783 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,823 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,865 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,903 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:12,984 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,026 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,066 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,103 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,144 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,182 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,223 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,263 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,301 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,339 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,380 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,419 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,456 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,498 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,535 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,578 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,615 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,659 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,747 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,793 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,880 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,925 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:13,972 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,013 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,081 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,119 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,161 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,203 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:14,239 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,272 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:16:15,323 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,359 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,392 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,437 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,470 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,500 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,532 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,565 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,601 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,633 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,673 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,710 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,743 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,771 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,806 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,836 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,913 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,949 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:15,985 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:16,014 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:16,049 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:16,079 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:16:16,089 [INFO] 视频处理完成
+2025-03-31 16:16:18,059 [ERROR] 生成汇总图表失败: 'value' must be an instance of str or bytes, not a None
+2025-03-31 16:16:18,059 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:16:43,273 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:43,279 [WARNING] API调用失败(尝试1/3): Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'b6f0bdf7-805d-9e1f-a69c-376a409084b1'}
+2025-03-31 16:16:44,391 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:44,395 [WARNING] API调用失败(尝试2/3): Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'abd16ad7-e7ef-900b-9f4c-6e18eaf3ebde'}
+2025-03-31 16:16:46,523 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:46,526 [ERROR] API调用失败，已达到最大重试次数: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'c4ca412f-9893-9cab-845f-00e21d70c75a'}
+2025-03-31 16:16:46,529 [ERROR] 查询处理出错: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'c4ca412f-9893-9cab-845f-00e21d70c75a'}
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 717, in interactive_query
+    response = self.api_call_with_retry(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Pycharm\AIapp\main.py", line 489, in api_call_with_retry
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'c4ca412f-9893-9cab-845f-00e21d70c75a'}
+2025-03-31 16:16:53,569 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:53,569 [WARNING] API调用失败(尝试1/3): Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'd7bd2c89-beb0-907d-b8e5-65c9df9b5ab2'}
+2025-03-31 16:16:54,710 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:54,713 [WARNING] API调用失败(尝试2/3): Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': '143777bc-bae1-9bd2-a03d-8c9d39caa376'}
+2025-03-31 16:16:56,843 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-03-31 16:16:56,847 [ERROR] API调用失败，已达到最大重试次数: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'a862e26b-1f03-9bef-8f34-6ddb2f7db28b'}
+2025-03-31 16:16:56,848 [ERROR] 查询处理出错: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'a862e26b-1f03-9bef-8f34-6ddb2f7db28b'}
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 717, in interactive_query
+    response = self.api_call_with_retry(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Pycharm\AIapp\main.py", line 489, in api_call_with_retry
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "D:\python\Lib\site-packages\openai\_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'code': None, 'param': None, 'message': 'base64 data can not be empty.', 'type': 'invalid_request_error'}, 'request_id': 'a862e26b-1f03-9bef-8f34-6ddb2f7db28b'}
+2025-03-31 16:19:26,214 [INFO] 数据库连接成功
+2025-03-31 16:19:26,286 [INFO] 数据库表已重置
+2025-03-31 16:19:26,286 [INFO] 确保数据库表已创建
+2025-03-31 16:19:26,289 [INFO] 发现恢复点，将从第400帧继续处理
+2025-03-31 16:19:49,959 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:19:54,399 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:19:57,262 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:19:57,333 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,373 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,414 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,499 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,583 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,623 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,709 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,750 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:57,836 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,033 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,186 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,331 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,488 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,557 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,626 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,696 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,768 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,836 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:58,985 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,050 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,119 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,189 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,329 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,400 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,469 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,537 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,604 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,669 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,813 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,882 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:19:59,949 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,017 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,162 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,229 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,295 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,360 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,426 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,567 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,635 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,701 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,769 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,849 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:00,929 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,004 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,159 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,240 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,313 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,389 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,478 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,549 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,619 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,691 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,768 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,842 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,919 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:01,995 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,076 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,155 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,230 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,303 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,384 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,471 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,635 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,712 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,864 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:02,940 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,016 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,086 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,215 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,289 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,369 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,441 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:03,517 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,144 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:20:05,217 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,270 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,332 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,404 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,459 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,513 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,568 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,624 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,682 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,733 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,811 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,871 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,924 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:05,976 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,031 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,082 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,222 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,276 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,334 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,383 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,433 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,489 [ERROR] 帧处理异常: float division by zero
+2025-03-31 16:20:06,505 [INFO] 视频处理完成
+2025-03-31 16:20:07,619 [ERROR] 生成汇总图表失败: 'value' must be an instance of str or bytes, not a None
+2025-03-31 16:20:07,621 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:20:22,862 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:20:43,139 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:06,754 [INFO] 数据库连接成功
+2025-03-31 16:29:06,810 [INFO] 数据库表已重置
+2025-03-31 16:29:06,814 [INFO] 确保数据库表已创建
+2025-03-31 16:29:06,836 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:29:10,428 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:10,445 [ERROR] 物体匹配失败: name 'kp' is not defined
+2025-03-31 16:29:12,987 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:13,000 [ERROR] 物体匹配失败: name 'kp' is not defined
+2025-03-31 16:29:15,447 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:15,457 [ERROR] 物体匹配失败: name 'kp' is not defined
+2025-03-31 16:29:17,699 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:17,708 [ERROR] 物体匹配失败: name 'kp' is not defined
+2025-03-31 16:29:20,052 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:29:20,061 [ERROR] 物体匹配失败: name 'kp' is not defined
+2025-03-31 16:29:20,269 [INFO] 视频处理完成
+2025-03-31 16:29:20,269 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:31:08,308 [INFO] 数据库连接成功
+2025-03-31 16:31:08,368 [INFO] 数据库表已重置
+2025-03-31 16:31:08,368 [INFO] 确保数据库表已创建
+2025-03-31 16:31:08,389 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 553帧)
+2025-03-31 16:31:11,360 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:31:14,127 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:31:16,756 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:31:19,696 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:31:20,445 [INFO] 视频处理完成
+2025-03-31 16:31:20,445 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:31:48,125 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:33:10,910 [INFO] 数据库连接成功
+2025-03-31 16:33:10,980 [INFO] 数据库表已重置
+2025-03-31 16:33:10,980 [INFO] 确保数据库表已创建
+2025-03-31 16:33:11,002 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-31 16:33:14,857 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:33:17,415 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:33:17,777 [INFO] 视频处理完成
+2025-03-31 16:33:17,777 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:39:15,702 [INFO] 数据库连接成功
+2025-03-31 16:39:15,776 [INFO] 数据库表已重置
+2025-03-31 16:39:15,777 [INFO] 确保数据库表已创建
+2025-03-31 16:39:15,794 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-31 16:39:19,547 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:39:21,753 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:39:22,074 [INFO] 视频处理完成
+2025-03-31 16:39:22,077 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:39:46,127 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:39:48,275 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:39:49,911 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:39:52,064 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:07,629 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:09,370 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:11,110 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:14,179 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:33,024 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:34,764 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:36,609 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:38,349 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:40:39,979 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:43:02,217 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:43:04,167 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:43:05,717 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:43:07,337 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:43:09,593 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:52:27,155 [INFO] 数据库连接成功
+2025-03-31 16:52:27,207 [INFO] 数据库表已重置
+2025-03-31 16:52:27,208 [INFO] 确保数据库表已创建
+2025-03-31 16:52:27,227 [INFO] 开始处理视频: input.mp4 (720x1280, 30.00FPS, 279帧)
+2025-03-31 16:52:30,742 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:52:32,992 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:52:33,311 [INFO] 视频处理完成
+2025-03-31 16:52:33,311 [INFO] 轨迹数据已保存到: ./results\trajectories.json
+2025-03-31 16:52:43,508 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:52:46,027 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:52:47,840 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:53:00,344 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:53:02,279 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:53:04,739 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:58:24,834 [INFO] 数据库连接成功
+2025-03-31 16:58:24,903 [INFO] 数据库表已重置
+2025-03-31 16:58:24,907 [INFO] 确保数据库表已创建
+2025-03-31 16:58:28,118 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:58:44,703 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 16:58:59,399 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:00:02,346 [INFO] 数据库连接成功
+2025-03-31 17:00:02,418 [INFO] 数据库表已重置
+2025-03-31 17:00:02,419 [INFO] 确保数据库表已创建
+2025-03-31 17:00:06,208 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:00:18,194 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:00:26,799 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:00:38,474 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:01:36,965 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:01:36,973 [ERROR] 通用物体查询失败: cannot access local variable 'position_type' where it is not associated with a value
+Traceback (most recent call last):
+  File "d:\Pycharm\AIapp\main.py", line 685, in general_object_query
+    print(f"在视频{position_type}场景中没有发现「{obj}」")
+                   ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'position_type' where it is not associated with a value
+2025-03-31 17:01:56,296 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:03:45,486 [INFO] 数据库连接成功
+2025-03-31 17:03:45,549 [INFO] 数据库表已重置
+2025-03-31 17:03:45,549 [INFO] 确保数据库表已创建
+2025-03-31 17:03:46,016 [INFO] 视频首尾帧读取完成
+2025-03-31 17:03:58,663 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:04:22,418 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:06:31,535 [INFO] 数据库连接成功
+2025-03-31 17:06:31,606 [INFO] 数据库表已重置
+2025-03-31 17:06:31,606 [INFO] 确保数据库表已创建
+2025-03-31 17:06:35,338 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:06:49,670 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:07:14,862 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:07:25,409 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:08:02,517 [INFO] 数据库连接成功
+2025-03-31 17:08:02,587 [INFO] 数据库表已重置
+2025-03-31 17:08:02,587 [INFO] 确保数据库表已创建
+2025-03-31 17:08:06,535 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:08:18,955 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 17:08:56,765 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 21:38:29,261 [INFO] 数据库连接成功
+2025-03-31 21:38:29,318 [INFO] 数据库表已重置
+2025-03-31 21:38:29,319 [INFO] 确保数据库表已创建
+2025-03-31 21:38:32,239 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 21:38:53,173 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 21:39:08,778 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-31 21:39:25,806 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
